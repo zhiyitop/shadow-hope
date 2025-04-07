@@ -1,7 +1,3 @@
-<div align="center">
-    <h1 style="text-align: center">Linux</h1>
-</div>
-
 # 外核
 
 ## Linux目录
