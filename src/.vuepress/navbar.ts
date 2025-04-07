@@ -4,17 +4,17 @@ export default navbar([
 
   {
     text: "执一",
-    link: "/home/home"
+    link: "/home/home",
   },
 
   {
     text: "计算机",
-    children: ["/zh/basic/markdown.md", "/zh/basic/vuepress.md"],
+    link: "/computer/start",
   },
 
   {
-    text: "V2 文档",
-    link: "https://theme-hope.vuejs.press/zh/",
+    text: "时间轴",
+    link: "/timeline/",
   },
 
 ]);
